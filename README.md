@@ -1,0 +1,1 @@
+# intellij-mini-project
